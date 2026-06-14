@@ -160,7 +160,7 @@ I believe every repository should demonstrate:
 
 🌐 Portfolio: Coming Soon
 
-🐙 GitHub: github.com/Meganthan003
+🐙 GitHub: https://github.com/Meganthan003
 
 ---
 
