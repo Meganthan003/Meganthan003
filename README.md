@@ -156,7 +156,7 @@ I believe every repository should demonstrate:
 
 📧 Email: meganthan06@gmail.com
 
-💼 LinkedIn: linkedin.com/in/meganthan-m-35608926a
+💼 LinkedIn: https://www.linkedin.com/in/meganthan-m-35608926a/
 
 🌐 Portfolio: Coming Soon
 
